@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tanay Makharia"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : description
   location         : "Hyderabad, India"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
